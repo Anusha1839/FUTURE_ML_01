@@ -1,6 +1,8 @@
 # FUTURE_ML_01
 📊 AI-Powered Sales Forecasting Dashboard – Internship Task 1
+
 🚀 Project Overview
+
 This repository contains the complete work for Task 1 of my FutureInterns Machine Learning Internship, focused on building an AI-powered sales forecasting dashboard. The objective of this task is to use historical sales data to predict future sales using machine learning techniques and visualize the insights using Power BI.
 
 
@@ -84,7 +86,7 @@ Visual outputs can be found in the outputs folder.
 📬 Contact
 If you have any questions or want to connect:
 
-LinkedIn #link
+LinkedIn -> https://www.linkedin.com/in/dhanusha-katakam-ediga-3756ab341/
 
 
 🙏 Acknowledgements
