@@ -4,17 +4,20 @@
 This repository contains the complete work for Task 1 of my FutureInterns Machine Learning Internship, focused on building an AI-powered sales forecasting dashboard. The objective of this task is to use historical sales data to predict future sales using machine learning techniques and visualize the insights using Power BI.
 
 🧠 Objectives
-Predict future sales using time series forecasting.
-Visualize trends in actual vs predicted sales.
-Analyze sales patterns across different time frames (monthly/yearly).
-Provide insights using Power BI dashboards.
+-> Predict future sales using time series forecasting.
+ 
+-> Visualize trends in actual vs predicted sales.
+
+-> Analyze sales patterns across different time frames (monthly/yearly).
+
+-> Provide insights using Power BI dashboards.
 
 🛠️ Tech Stack
-Python (Google Colab) – For data preprocessing and ML forecasting.
-Pandas, Prophet, Scikit-learn – Time series analysis and modeling.
-Matplotlib – Basic data visualization in Python.
-Power BI – For building dynamic and interactive dashboards.
-CSV Files – Used for importing and exporting datasets.
+-> Python (Google Colab) – For data preprocessing and ML forecasting.
+-> Pandas, Prophet, Scikit-learn – Time series analysis and modeling.
+-> Matplotlib – Basic data visualization in Python.
+-> Power BI – For building dynamic and interactive dashboards.
+-> CSV Files – Used for importing and exporting datasets.
 
 📊 Dashboard Highlights
 The Power BI dashboard includes the following visualizations:
